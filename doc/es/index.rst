@@ -4,8 +4,8 @@ Cancelar facturas de pedidos de compras
 
 Permite la cancelación de facturas generadas a partir de pedidos de compra.
 
-Módulos que dependen
-====================
+Módulos de los que depende
+==========================
 
 Instalados
 ----------
